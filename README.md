@@ -82,7 +82,7 @@
   <details>
 
   - **Sprint Review**:
-    -Bu sprint için , Navigation Bar ve ChatBot kodlanmıştır ve genel görünüm halledilmeye çalışılmıştır.
+    - Bu sprint için , Navigation Bar ve ChatBot kodlanmıştır ve genel görünüm halledilmeye çalışılmıştır.
  
 
 
@@ -97,9 +97,9 @@
   <details>
 
   - **Sprint Retrospective**:
-    -Müsaitlik durumlarına göre herkese görev atanmışıtr.
-    -Olası durumlara göre risk planı yapılmıştır.
-    -Toplantılar için daha uygun saatlere karar verilmiştir.
+    - Müsaitlik durumlarına göre herkese görev atanmışıtr.
+    - Olası durumlara göre risk planı yapılmıştır.
+    - Toplantılar için daha uygun saatlere karar verilmiştir.
 
   </details>
 
