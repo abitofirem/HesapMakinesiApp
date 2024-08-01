@@ -26,18 +26,18 @@ Takım Flutter 63
 
 ## Ürün Açıklaması
 
-Uygulamamız, yapay zeka destekli bir chatbot kullanarak favori filmlerinizi öğrenir ve size yeni film önerilerinde bulunur. Bu filmleri uygulama içinde araştırabilir ve favori filmlerinizi profilinize ekleyebilirsiniz. Eklediğiniz favori ve izlediğiniz filmlerle benzer film zevkine sahip kullanıcıların profillerini görebilir, böylece film önerilerinizi genişletebilirsiniz.
+Uygulamamız, yapay zeka destekli Gemini API kullanan bir Chatbot ile birlikte kullanıcıların belirttiği filmlerle ortak özelliklere benzer filmler önerecek şekilde geliştirildi. Bu filmleri uygulama içinde araştırabilir ve favori filmlerinizi profilinize ekleyebilirsiniz. Eklediğiniz favori ve izlediğiniz filmlerle benzer film zevkine sahip kullanıcıların profillerini görebilir, böylece film önerilerinizi genişletebilirsiniz.
 
 Uygulamamız, kullanıcıların film zevklerini öğrenerek yeni öneriler sunar ve filmleri araştırma imkanı tanır. Kullanıcılar, favori filmlerini profillerine ekleyebilir ve benzer zevklere sahip kişilerin profillerini görüntüleyebilir.
 
-**Uygulamanın Birincil Fonksiyonu:** Yapay zeka destekli chatbot, favori filmlerinizi öğrenir ve size kişiselleştirilmiş film önerilerinde bulunur.
+**Uygulamanın Birincil Fonksiyonu:** Yapay zeka destekli chatbot, belirttiğiniz filmlerle ortak özellikler sahip film önerilerinde bulunur.
 
 **Uygulamanın İkincil Fonksiyonu:** Eklediğiniz favori ve izlediğiniz filmlerle benzer zevklere sahip kullanıcıların profillerini görerek, film önerilerinizi genişletebilirsiniz.
 
 Uygulamamız, film zevkinize uygun öneriler sunarak sinema keyfinizi artırmayı hedefler.
 
 ## Ürün Özellikleri
-- Yapay zeka destekli chatbot ile favori filmlerinizin öğrenilmesi ve kişiselleştirilmiş film önerileri sunulması.
+- Yapay zeka destekli chatbot ile belirttiğiniz filmlerle ortak özellikler sahip film önerileri sunulması.
 - Uygulama içinde film araştırma imkanı.
 - Favori filmlerinizi profilinize ekleyebilme.
 - Benzer film zevkine sahip kullanıcıların profillerini görebilme ve etkileşim kurabilme.
