@@ -28,7 +28,7 @@ Takım Flutter 63
 
 Uygulamamız, yapay zeka destekli Gemini API kullanan bir Chatbot ile birlikte kullanıcıların belirttiği filmlerle ortak özelliklere benzer filmler önerecek şekilde geliştirildi. Bu filmleri uygulama içinde araştırabilir ve favori filmlerinizi profilinize ekleyebilirsiniz. Eklediğiniz favori ve izlediğiniz filmlerle benzer film zevkine sahip kullanıcıların profillerini görebilir, böylece film önerilerinizi genişletebilirsiniz.
 
-Uygulamamız, kullanıcıların film zevklerini öğrenerek yeni öneriler sunar ve filmleri araştırma imkanı tanır. Kullanıcılar, favori filmlerini profillerine ekleyebilir ve benzer zevklere sahip kişilerin profillerini görüntüleyebilir.
+Uygulamamız, kullanıcıların film zevklerini öğrenerek yeni insanlarla tanışma fırsatı sunar ve filmleri araştırma imkanı tanır. Kullanıcılar, favori filmlerini profillerine ekleyebilir ve benzer zevklere sahip kişilerin profillerini görüntüleyebilir.
 
 **Uygulamanın Birincil Fonksiyonu:** Yapay zeka destekli chatbot, belirttiğiniz filmlerle ortak özellikler sahip film önerilerinde bulunur.
 
