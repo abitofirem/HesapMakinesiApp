@@ -394,19 +394,16 @@ Uygulamamız, film zevkinize uygun öneriler sunarak sinema keyfinizi artırmay�
 
 
   <details>
-    <summary><h3> Sprint 2-Daily Scrum Screenshot</h3></summary>
+    <summary><h3> Sprint 3-Daily Scrum Screenshot</h3></summary>
 
-    ![t1](https://github.com/user-attachments/assets/ce6a7be3-cf93-4817-ae5b-583325b240e1)
-    ![t2](https://github.com/user-attachments/assets/4c0d9ffc-06fc-49c7-9444-6677a5d5fb1c)
-    ![t3](https://github.com/user-attachments/assets/63cba883-019b-493e-ba39-aaaa2f1ac738)
-    ![t4](https://github.com/user-attachments/assets/e451c0b7-1ec9-423f-8701-a4d7e4a707c7)
-    ![t5](https://github.com/user-attachments/assets/40ebe833-1faa-496c-ad44-5f6b2de1e011)
-    ![t6](https://github.com/user-attachments/assets/b32bd2b3-cbdf-4a7e-90a2-cce306bb225f)
-    ![t7](https://github.com/user-attachments/assets/0fd2afcb-e580-4761-a7a8-376b64061d00)
-    ![t8](https://github.com/user-attachments/assets/28b5b9a0-d764-48e9-b7eb-bdf09e604751)
-    ![t9](https://github.com/user-attachments/assets/b62e8ac9-85fd-4979-86fb-74ff301f316d)
-    ![t10](https://github.com/user-attachments/assets/d5ff9a5c-4e99-434c-9f48-f2cfd8883bce)
-
+    ![1](https://github.com/user-attachments/assets/7f133188-4910-43fe-9f90-bd39bfff35c9)
+    ![2](https://github.com/user-attachments/assets/0b0156ca-781a-49e2-b2ea-d04d3ab2b504)
+    ![3](https://github.com/user-attachments/assets/cfcd76c7-fb37-4cec-a423-7493e86839d7)
+    ![4](https://github.com/user-attachments/assets/0e3bc8a8-2b35-4691-a8b3-5a8db2f0d6e9)
+    ![5](https://github.com/user-attachments/assets/550c9f56-c4ea-481c-92d0-5841b2618a8f)
+    ![6](https://github.com/user-attachments/assets/7f1f388a-a98e-4c85-98a7-6436d0a84ede)
+    ![7](https://github.com/user-attachments/assets/1ddc2978-0d72-4e02-b2ee-f4278a0cb9ba)
+    ![8](https://github.com/user-attachments/assets/164211cc-448e-4467-b2ec-776e94b47e21)
   <details>
 
   </details>
