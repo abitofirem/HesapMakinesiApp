@@ -180,9 +180,9 @@ Uygulamamız, film zevkinize uygun öneriler sunarak sinema keyfinizi artırmay�
 
   <details>
 
-  - **Sprint içinde tamamlanması tahmin edilen puan**: 175 Puan
+  - **Sprint içinde tamamlanması tahmin edilen puan**: 140 Puan
 
-  - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 175 olması gerektiğine karar verildi.Her planlanan başlık için 25 puan atandı.
+  - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 175 olması gerektiğine karar verildi.Her planlanan başlık için 20 puan atandı.
 
 
 ## Sprint 2- Not
@@ -193,7 +193,7 @@ Uygulamamız, film zevkinize uygun öneriler sunarak sinema keyfinizi artırmay�
 
 **BAŞLIKLARA GÖRE PLANLANAN UYGULAMA ÖZELLİKLERİ**
 
-- **Profil**:(25p)
+- **Profil**:(20p)
     - Kullanıcı bilgileri
     - Editleme
     - Profil Resmi Ekleme
@@ -205,7 +205,7 @@ Uygulamamız, film zevkinize uygun öneriler sunarak sinema keyfinizi artırmay�
     - Ayarlar
     - Dark Mode
 
-- **ChatBot**:(25p)
+- **ChatBot**:(20p)
     - Yapılmış olan ChatBot'un daha nitelikli olması için eğitilmesine karar verildi. (şu an gemini kullanıyor)
 
 - **Anasayfa**:(25p)
@@ -214,23 +214,23 @@ Uygulamamız, film zevkinize uygun öneriler sunarak sinema keyfinizi artırmay�
     - Mavi Hap Rastgele Film Önerisi
     - Film Zevki Uyan Kullanıcıları Gösteren Tablo
   
-- **Film Aratma**:(25p)
+- **Film Aratma**:(20p)
     - Filmleri Aratma
     - Kişileri Aratma
     - Görsel Düzenlilik
     - Favorilere Ekleme
     - Koleksiyona Ekleme
      
-- **Giriş Ekranı**:(25p)
+- **Giriş Ekranı**:(20p)
     - Firebase
     - Login Page
     - Register Page
     - Google İle Üye Olma
     - UI tasarım
 
-- **Navbar**(25p)
+- **Navbar**(20p)
 
-- **Favoriler**:(25p)
+- **Favoriler**:(20p)
     - Poster Görünümü
     - Tıklandığında Detayları Gösteren Açılır Ekran
       
@@ -321,7 +321,7 @@ Uygulamamız, film zevkinize uygun öneriler sunarak sinema keyfinizi artırmay�
   <details>
 
   - **Sprint Retrospective**:
-    - Sprint 2 için alınan puan 175'dir..
+    - Sprint 2 için alınan puan 140'tıır..
     - Sprint puanlamasının daha detaylı ele alınmasına karar verilmiştir. 
     - Kişilerin hangi tarihlerde müsait olabileceği hakkında konuşulmuş, yeni sprint için görev ataması yapılacak detaylı bir toplantı daha planlanmıştır.
 
@@ -346,9 +346,9 @@ Uygulamamız, film zevkinize uygun öneriler sunarak sinema keyfinizi artırmay�
 
   <details>
 
-  - **Sprint içinde tamamlanması tahmin edilen puan**: 65 Puan
+  - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-  - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprintin 65 olması gerektiğine karar verildi.Her planlanan başlık için 25 puan atandı.
+  - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprintin 100 olması gerektiğine karar verildi. Her planlanan başlık için yapılacaklara göre aşağıdaki puanlama mantığıyla puanlar atandı.
 
 
 ## Sprint 3- Not
@@ -358,34 +358,35 @@ Uygulamamız, film zevkinize uygun öneriler sunarak sinema keyfinizi artırmay�
 
 **BAŞLIKLARA GÖRE PLANLANAN UYGULAMA ÖZELLİKLERİ**
 
-- **Profil**:(p)
+- **Profil**:(30p)
     - Mesajlaşma Düzenleneme
     - Profil-edit Düzenleneme
     - Profilde Other Favori Kısmı Değişimi
     - Likes Kısmının Kaldırılması
     - Favorilerle Eşleşen Kişilerin Profilinde Eşleşen Sayıyı Gösterebilme
+    - Takip Ettiklerimin listesini görebilme
+    - Başkasının profilinde favorileri görebilme
+    - Seçilen Resimlerin Firebase içine Aktarılması (Uygulama İçi Görsel Paketi)
 
-- **ChatBot**:(p)
+- **ChatBot**:(10p)
     - Yapılmış olan ChatBot'un daha nitelikli olması için eğitilmesine üzerine tekrar konuşuldu ve gerekli atama yapıldı.
 
-- **Anasayfa**:(p)
+- **Anasayfa**:(20p)
     - En Çok Filmlerinin Eşleştiği Top 5 Kişi Listesi
-    - Welcome X ( Database'e Gelecek Kayıtlı Olan Username)
+    - Welcome X ( Database'e Gelecek Kayıtlı Olan Username) --duruma göre çıkar--
     - Tabloda Anlık Güncelleme
     - Filmlerin Resim Büyüklüklerinin Ayarlanması
   
-- **Kullanıcı Ayarları**:(p)
+- **Kullanıcı Ayarları**:(20p)
     - Dark Mode Düzenlenmesi
     - User Information Kısmının Kaldırılması
+    - Exit butonu ile çıkış yapabilme
      
-- **Giriş Ekranı**:(p)
+- **Giriş Ekranı**:(20p)
     - Login Kontrolleri Eklemek
     - Register Kontrolleri Eklemek
-    - Facebook ve Google ile Girişi Gerçekleştirmek
-    - Kullanıcı Açık Rıza Metni(KVKK)
-
-- **Firebase**:(p)
-    - Seçilen Resimlerin Firebase içine Aktarılması (Uygulama İçi Görsel Paketi)
+    - Google ile Girişi Gerçekleştirmek
+    - Kullanıcı Açık Rıza Metni Eklenmesi(KVKK)
       
 
 
@@ -457,9 +458,9 @@ Uygulamamız, film zevkinize uygun öneriler sunarak sinema keyfinizi artırmay�
   <details>
 
   - **Sprint Review**:
-    - Sprint 2'nin sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir.Uygulama detayları gözden geçirilmiştir.
-    - ChatBot'un tam olarak entegre edilmesi hariç diğer tüm hedeflere ulaşılmıştır.
-    - Genel anlamda uygulama çalışabilir durumdadır.Sprint notlarında belirtilen özellikler sağlanmıştır.
+    - Sprint 3'ün sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. Uygulama detayları gözden geçirilmiştir, gerekli testler yapılıp ürünün son hali ortaya konulmuştur.
+    - Tüm hedeflere ulaşılmıştır ve gerçekleşmesi beklenen backlog puanı gerçekleşip bu sprint 100 puanla tamamlanmıştır.
+    - Ürün çalışabilir ve pazara sunulabilecek haldedir bunun sonucunda ekip birbirini tebrik etmiştir.
  
 
 
