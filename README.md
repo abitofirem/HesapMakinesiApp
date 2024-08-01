@@ -374,7 +374,7 @@ Uygulamamız, film zevkinize uygun öneriler sunarak sinema keyfinizi artırmay�
 
 - **Anasayfa**:(20p)
     - En Çok Filmlerinin Eşleştiği Top 5 Kişi Listesi
-    - Welcome X ( Database'e Gelecek Kayıtlı Olan Username) --duruma göre çıkar--
+    - Welcome X ( Database'e Gelecek Kayıtlı Olan Username)
     - Tabloda Anlık Güncelleme
     - Filmlerin Resim Büyüklüklerinin Ayarlanması
   
