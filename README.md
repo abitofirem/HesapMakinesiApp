@@ -417,7 +417,7 @@ Uygulamamız, film zevkinize uygun öneriler sunarak sinema keyfinizi artırmay�
   <details>
   Sprint board screenshotları:
     
-   ![kanban1](https://github.com/user-attachments/assets/b18e8552-a3bc-470e-9bbe-f618af882cc9)
+   ![kanban](https://github.com/user-attachments/assets/d389d97d-441c-4d2e-89b6-1935ad715945)
 
   </details>
 
